@@ -1,0 +1,9 @@
+C:\rat\remote-access-client\remote-access-client\bin\Release\remote-access-client.exe.config
+C:\rat\remote-access-client\remote-access-client\bin\Release\remote-access-client.exe
+C:\rat\remote-access-client\remote-access-client\bin\Release\remote-access-client.pdb
+C:\rat\remote-access-client\remote-access-client\obj\Release\remote_access_client.Form1.resources
+C:\rat\remote-access-client\remote-access-client\obj\Release\remote_access_client.Properties.Resources.resources
+C:\rat\remote-access-client\remote-access-client\obj\Release\remote-access-client.csproj.GenerateResource.cache
+C:\rat\remote-access-client\remote-access-client\obj\Release\remote-access-client.csproj.CoreCompileInputs.cache
+C:\rat\remote-access-client\remote-access-client\obj\Release\remote-access-client.exe
+C:\rat\remote-access-client\remote-access-client\obj\Release\remote-access-client.pdb

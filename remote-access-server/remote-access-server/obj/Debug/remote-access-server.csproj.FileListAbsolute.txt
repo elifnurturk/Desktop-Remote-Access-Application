@@ -1,0 +1,10 @@
+C:\rat\remote-access-server\remote-access-server\bin\Debug\remote-access-server.exe.config
+C:\rat\remote-access-server\remote-access-server\bin\Debug\remote-access-server.exe
+C:\rat\remote-access-server\remote-access-server\bin\Debug\remote-access-server.pdb
+C:\rat\remote-access-server\remote-access-server\obj\Debug\remote-access-server.csproj.AssemblyReference.cache
+C:\rat\remote-access-server\remote-access-server\obj\Debug\remote_access_server.Form1.resources
+C:\rat\remote-access-server\remote-access-server\obj\Debug\remote_access_server.Properties.Resources.resources
+C:\rat\remote-access-server\remote-access-server\obj\Debug\remote-access-server.csproj.GenerateResource.cache
+C:\rat\remote-access-server\remote-access-server\obj\Debug\remote-access-server.csproj.CoreCompileInputs.cache
+C:\rat\remote-access-server\remote-access-server\obj\Debug\remote-access-server.exe
+C:\rat\remote-access-server\remote-access-server\obj\Debug\remote-access-server.pdb
